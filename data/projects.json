@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": "sportslock",
+      "name": "SportsLock",
+      "description": "A revolutionary daily fantasy sports application built for a Chicago startup. Features real-time game updates, player statistics, live scoring, and an intuitive betting interface that makes it easy for users to create lineups and compete.",
+      "technologies": ["Xamarin", "C#", "Azure SQL", "XAML", ".NET"],
+      "category": "Mobile App",
+      "media": [
+        { "type": "image", "src": "images/portfolio/sportslock/slOne.png" },
+        { "type": "image", "src": "images/portfolio/sportslock/slTwo.png" },
+        { "type": "image", "src": "images/portfolio/sportslock/slThree.png" },
+        { "type": "image", "src": "images/portfolio/sportslock/slFour.png" }
+      ],
+      "thumbnail": "images/portfolio/sportslock/slOne.png"
+    },
+    {
+      "id": "monologues",
+      "name": "Monologues",
+      "description": "An interactive digital artist book bringing the Four Monologues to life. Features elegant typography, smooth page transitions, immersive audio narration, and a reading experience that bridges traditional books with modern technology.",
+      "technologies": ["Ionic", "Angular", "TypeScript", "Firebase", "CSS3"],
+      "category": "Web App",
+      "media": [
+        { "type": "image", "src": "images/portfolio/monologues/mOne.png" },
+        { "type": "image", "src": "images/portfolio/monologues/mTwo.png" },
+        { "type": "image", "src": "images/portfolio/monologues/mThree.png" },
+        { "type": "image", "src": "images/portfolio/monologues/mFour.png" },
+        { "type": "image", "src": "images/portfolio/monologues/mFive.png" }
+      ],
+      "thumbnail": "images/portfolio/monologues/mOne.png"
+    },
+    {
+      "id": "rhythmrain",
+      "name": "Rhythm Rain",
+      "description": "An innovative mobile rhythm game that analyzes and syncs with your own music library. Features dynamic gameplay that adapts to any song's tempo and beats, custom visual effects, and competitive leaderboards.",
+      "technologies": ["C#", ".NET", "Unity", "Audio Analysis"],
+      "category": "Game",
+      "media": [
+        { "type": "image", "src": "images/portfolio/rhythmrain/GameOne.png" },
+        { "type": "image", "src": "images/portfolio/rhythmrain/GameTwo.png" },
+        { "type": "image", "src": "images/portfolio/rhythmrain/GameThree.png" }
+      ],
+      "thumbnail": "images/portfolio/rhythmrain/GameOne.png"
+    },
+    {
+      "id": "viewchicago",
+      "name": "View Chicago",
+      "description": "A comprehensive self-guided architectural tour app developed in collaboration with the AIA and Columbia College. Features GPS-powered navigation, professional audio guides, detailed building information, and curated walking routes through Chicago's iconic architecture.",
+      "technologies": ["Swift", "iOS", "Firebase", "MapKit", "Core Location"],
+      "category": "Mobile App",
+      "media": [
+        { "type": "image", "src": "images/portfolio/viewchicago/vcOne.png" },
+        { "type": "image", "src": "images/portfolio/viewchicago/vcTwo.png" },
+        { "type": "image", "src": "images/portfolio/viewchicago/vcThree.png" },
+        { "type": "image", "src": "images/portfolio/viewchicago/vcFour.png" }
+      ],
+      "thumbnail": "images/portfolio/viewchicago/vcOne.png"
+    },
+    {
+      "id": "marksramek",
+      "name": "Mark Sramek Portfolio",
+      "description": "A clean, professional portfolio website designed to showcase creative work. Features smooth scroll animations, responsive image galleries, and an elegant minimalist design that puts the focus on the work.",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "category": "Website",
+      "media": [
+        { "type": "image", "src": "images/portfolio/marksramek/msOne.png" }
+      ],
+      "thumbnail": "images/portfolio/marksramek/msOne.png"
+    }
+  ]
+}
